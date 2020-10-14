@@ -1,0 +1,7 @@
+.NavList {
+  display: block;
+}
+
+.NavList li {
+  display: inline;
+}
